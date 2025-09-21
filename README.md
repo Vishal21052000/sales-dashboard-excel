@@ -62,5 +62,3 @@ To explore the interactive dashboard, open the Excel file from this repository.
 
 **Vishal Kushwah**
 🔗 [LinkedIn Profile](www.linkedin.com/in/vishalkushwah2105)
-
-If you want, I can **also re-write your Madhav E-commerce Power BI dashboard README** in exactly this polished format, ready to copy-paste. Do you want me to do that next?
