@@ -1,35 +1,66 @@
-📊 Sales Performance Dashboard
+# 📊 Sales Performance Dashboard (Excel)
 
-🔹 Project Title
+## 📌 Short Description / Purpose
 
-Sales Performance Dashboard
+This Excel dashboard provides a comprehensive analysis of **sales performance** across regions, product categories, and time periods.
+It enables businesses to **track revenue trends, identify top-performing products, and monitor monthly sales growth** to support strategic decision-making.
 
-🔹 Short Description / Purpose
+---
 
-This dashboard provides a detailed view of sales performance across regions, product categories, and time periods. It helps businesses analyze revenue trends, identify top-performing products, and monitor monthly sales growth for better decision-making.
+## 🛠️ Tech Stack
 
-🔹 Tech Stack
+* **Microsoft Excel** (Pivot Tables, Charts, Slicers, Conditional Formatting)
+* **Sales Dataset** (Excel format)
 
-Microsoft Excel (Pivot Tables, Charts, Slicers)
+---
 
-Data Visualization Tools available in Excel
+## 📂 Data Source
 
+* Sales transaction dataset
+* Includes **product details, category, sub-category, region, order date, sales, and quantity information**
 
-🔹 Data Source
+---
 
-Sales transaction dataset (includes product details, sales figures, region, and date-wise data).
+## 🌟 Features / Highlights
 
+* Interactive dashboard with **slicers** for Region, Category, Order Date, and Month
+* KPIs displayed: **Total Sales, Profit, Quantity Sold**
+* Visualizations included:
 
-🔹 Features / Highlights
+  * Bar Charts
+  * Line Chart
+  * Stacked Bar Chart
+  * Interactive Slicers
 
-Sales by Category: Breakdown of sales for products like Furniture, Technology, and Office Supplies.
+**Insights Provided:**
 
-Sales by Region: Regional performance comparison (East, West, South, North).
+* **Sales by Region:** Compare performance across East, West, South, and North
+* **Sales by Category:** Breakdown of Furniture, Technology, and Office Supplies
+* **Top 10 Products by Sales:** Identify highest revenue-generating items
+* **Monthly Sales Trend:** Track month-on-month growth
 
-Monthly Sales Trend: Line chart showing month-on-month sales growth.
+---
 
-Top 10 Products by Sales: Ranking of the highest revenue-generating products.
+## 📷 Dashboard Preview
 
-Interactive Filters: Slicers for Region, Category, Order Date, and Month for dynamic analysis.
+Note: Click on the screenshot to view it in full size.
+To explore the interactive dashboard, open the Excel file from this repository.
 
-KPIs: Total Sales, Profit, and Quantity sold displayed at the top.
+`![Dashboard Screenshot](Screenshots/dashboard.png)`
+
+---
+
+## 🚀 How to Use
+
+1. Download the Excel file from this repo
+2. Open in **Microsoft Excel**
+3. Use slicers & filters to explore the dashboard dynamically
+
+---
+
+## 👤 Author
+
+**Vishal Kushwah**
+🔗 [LinkedIn Profile](www.linkedin.com/in/vishalkushwah2105)
+
+If you want, I can **also re-write your Madhav E-commerce Power BI dashboard README** in exactly this polished format, ready to copy-paste. Do you want me to do that next?
