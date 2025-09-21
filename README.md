@@ -1,31 +1,35 @@
+📊 Sales Performance Dashboard
 
-📊 Project Title / Dashboard Name
+🔹 Project Title
+
+Sales Performance Dashboard
 
 🔹 Short Description / Purpose
 
-Briefly explain what this dashboard does and why it was created (e.g., analyze sales, track KPIs, monitor performance, etc.).
+This dashboard provides a detailed view of sales performance across regions, product categories, and time periods. It helps businesses analyze revenue trends, identify top-performing products, and monitor monthly sales growth for better decision-making.
 
 🔹 Tech Stack
 
-Power BI / Excel / Tableau / Python (whichever applies)
+Microsoft Excel (Pivot Tables, Charts, Slicers)
 
-Data visualization techniques (charts, KPIs, filters, slicers, etc.)
+Data Visualization Tools available in Excel
 
 
 🔹 Data Source
 
-Dataset used (e.g., e-commerce sales data, company records, CSV/Excel files, SQL database, etc.)
+Sales transaction dataset (includes product details, sales figures, region, and date-wise data).
 
 
 🔹 Features / Highlights
 
-📌 Key metrics displayed (Revenue, Profit, Quantity, etc.)
+Sales by Category: Breakdown of sales for products like Furniture, Technology, and Office Supplies.
 
-📊 Visuals included (bar charts, line charts, donut charts, etc.)
+Sales by Region: Regional performance comparison (East, West, South, North).
 
-🌍 Breakdown by (Region, Category, Sub-Category, Time period, etc.)
+Monthly Sales Trend: Line chart showing month-on-month sales growth.
 
-🔄 Interactive features (filters, slicers, drill-through, etc.)
+Top 10 Products by Sales: Ranking of the highest revenue-generating products.
 
-📈 Trend analysis (monthly/quarterly/yearly growth, seasonal patterns, etc.)
+Interactive Filters: Slicers for Region, Category, Order Date, and Month for dynamic analysis.
 
+KPIs: Total Sales, Profit, and Quantity sold displayed at the top.
